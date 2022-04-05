@@ -6,3 +6,6 @@
 
 ### GitHub Actions CI status:
 [![Linter check](https://github.com/Lorehan/python-project-lvl1/actions/workflows/linter.yml/badge.svg)](https://github.com/Lorehan/python-project-lvl1/actions/workflows/linter.yml)
+
+### Installation and start of the game:
+https://asciinema.org/a/wMCntOHMGZitI85HXGY4RKoHw
