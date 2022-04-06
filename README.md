@@ -9,3 +9,6 @@
 
 ### Installation and start of the game:
 <a href="https://asciinema.org/a/wMCntOHMGZitI85HXGY4RKoHw" target="_blank"><img src="https://asciinema.org/a/wMCntOHMGZitI85HXGY4RKoHw.svg" /></a>
+
+### Calc game:
+<a href="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH" target="_blank"><img src="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH.svg" /></a>
