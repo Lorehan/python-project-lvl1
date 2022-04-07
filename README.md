@@ -12,3 +12,6 @@
 
 ### Calc game:
 <a href="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH" target="_blank"><img src="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH.svg" /></a>
+
+### GCD game^
+<a href="https://asciinema.org/a/Rrj8ud79bVLrzeLuf2NAUFCmq" target="_blank"><img src="https://asciinema.org/a/Rrj8ud79bVLrzeLuf2NAUFCmq.svg" /></a>
