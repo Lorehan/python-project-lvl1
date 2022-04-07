@@ -18,3 +18,6 @@
 
 ### Progression game:
 <a href="https://asciinema.org/a/owD9m2HlyxgvDwNeirVnIz0Cf" target="_blank"><img src="https://asciinema.org/a/owD9m2HlyxgvDwNeirVnIz0Cf.svg" /></a>
+
+### Prime game:
+<a href="https://asciinema.org/a/BMNRnANYZNLvcvqqBsvEtYEIf" target="_blank"><img src="hhttps://asciinema.org/a/BMNRnANYZNLvcvqqBsvEtYEIf.svg" /></a>
