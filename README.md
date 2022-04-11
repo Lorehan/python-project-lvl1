@@ -23,8 +23,10 @@
 - brain-prime
 
 ### Installation:
-"make build"
-"make package-install"
+'''
+make build
+make package-install
+'''
 <a href="https://asciinema.org/a/yIA02NFXCVfWSJoYLxYhpnntv" target="_blank"><img src="https://asciinema.org/a/yIA02NFXCVfWSJoYLxYhpnntv.svg" /></a>
 
 ### Calc game:
