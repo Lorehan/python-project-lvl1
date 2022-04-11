@@ -4,7 +4,7 @@ import random
 RULE = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def isPrime(number):
+def is_prime(number):
     if number % 2 == 0:
         return number == 2
     denominator = 3
@@ -15,7 +15,7 @@ def isPrime(number):
 
 def get_question():
     question = random.randint(2, 100)
-    if isPrime(question):
+    if is_prime(question):
         correct_answer = 'yes'
     else:
         correct_answer = 'no'

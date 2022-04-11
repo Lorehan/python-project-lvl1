@@ -3,8 +3,29 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/f6d97c04ed3f2760819d/maintainability)](https://codeclimate.com/github/Lorehan/python-project-lvl1/maintainability)
 [![Linter check](https://github.com/Lorehan/python-project-lvl1/actions/workflows/linter.yml/badge.svg)](https://github.com/Lorehan/python-project-lvl1/actions/workflows/linter.yml)
 
-### Installation and start of the game:
-<a href="https://asciinema.org/a/wMCntOHMGZitI85HXGY4RKoHw" target="_blank"><img src="https://asciinema.org/a/wMCntOHMGZitI85HXGY4RKoHw.svg" /></a>
+### Description:
+'Brain Games' is first project on Hexlet. Project include 5 math games:
+- Brain even  - Answer "yes" if the number is even, otherwise answer "no"
+- Brain calculator - Answer what is the result of the expression?
+- Brain gcd - Answer what is the greatest common divisor of given numbers.
+- Brain progression - Answer what number is missing in the progression?
+- Brain prime - Answer "yes" if given number is prime, otherwise answer "no".
+
+### Dependencies:
+- python = "^3.8"
+- prompt = "^0.4.1"
+
+### Commands to start games:
+- brain-even
+- brain-calc
+- brain-gcd
+- brain-progression
+- brain-prime
+
+### Installation:
+make build
+make package-install
+<a href="https://asciinema.org/a/yIA02NFXCVfWSJoYLxYhpnntv" target="_blank"><img src="https://asciinema.org/a/yIA02NFXCVfWSJoYLxYhpnntv.svg" /></a>
 
 ### Calc game:
 <a href="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH" target="_blank"><img src="https://asciinema.org/a/fj7uD37GgPK8fT0HViLmCyhIH.svg" /></a>
