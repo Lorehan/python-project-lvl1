@@ -10,11 +10,11 @@ def is_prime(number):
     denominator = 3
     while denominator ** 2 <= number and number % denominator != 0:
         denominator += 2
-    return denominator ** 2 > number
+    return denominator ** 2 > number and number != 1
 
 
 def get_question():
-    question = random.randint(2, 100)
+    question = random.randint(1, 100)
     if is_prime(question):
         correct_answer = 'yes'
     else:
