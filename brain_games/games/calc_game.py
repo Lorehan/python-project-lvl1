@@ -2,16 +2,17 @@ import random
 
 
 RULE = 'What is the result of the expression?'
+OPERATIONS = ('+', '-', '*')
 
 
 def get_question():
-    operation_selection = random.randint(1, 3)
+    operation = random.choice(OPERATIONS)
     first_number = random.randint(1, 50)
     second_number = random.randint(1, 50)
-    if operation_selection == 1:
+    if operation == '+':
         question = f'{first_number} + {second_number}'
         correct_answer = first_number + second_number
-    elif operation_selection == 2:
+    elif operation == '-':
         question = f'{first_number} - {second_number}'
         correct_answer = first_number - second_number
     else:
